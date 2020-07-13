@@ -12,4 +12,4 @@ const randomMsg = () => {
 }
 
 
-module.export = { randomMsg };
+module.exports = { randomMsg };
